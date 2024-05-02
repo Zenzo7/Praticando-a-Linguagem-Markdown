@@ -29,3 +29,8 @@
 - [x] terminar curso de Java POO.
 - [ ] fazer compras do mês.
 - [x] pagar mensalidade da faculdade.
+
+## Teste de Imagen:
+
+![imagen teste](https://github.com/Zenzo7/Praticando-a-Linguagem-Markdown/assets/168498000/4c617a9a-9d6b-4819-bde2-d28771f2277d)
+
