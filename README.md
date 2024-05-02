@@ -46,7 +46,7 @@ num | nome | nota
 
 ## Deixando um código em evidência:
 
-para fazer isso é necessário colocar ( ` ` ` ) a cima e abaixo do código, exemplo:
+para fazer isso é necessário colocar 3 ( ` ) a cima e abaixo do código, exemplo:
 
 ```
 int a = 5;
